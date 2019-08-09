@@ -1,2 +1,5 @@
-# performance-improvements
-A feature-incubation repo for XR-related performance improvements. Feature lead: Trevor F. Smith
+# Performance Improvements Feature Incubation
+
+A repo for working on WebXR-related performance improvements.
+
+Temporary feature lead: Trevor F. Smith
